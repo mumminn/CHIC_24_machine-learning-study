@@ -21,15 +21,15 @@ CHIC 24년 겨울/ **AI & 기계학습** 스터디
 ### 2장. 데이터 다루기
 | 세부 목차 | 1조 | 2조 | 3조
 :---: | :---: | :---: | :---:
-[2-1. 훈련 세트와 테스트 세트](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/4) | [박제인](2장/1조/2-1_훈련_세트와_테스트_세트_박제인.md)|
-[2-2. 데이터 전처리](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/5) | [박제인](2장/1조/2-2_데이터_전처리_박제인.md)|
+[2-1. 훈련 세트와 테스트 세트](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/4) | [박제인](2장/1조/2-1_훈련_세트와_테스트_세트_박제인.md)|  |
+[2-2. 데이터 전처리](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/5) | [박제인](2장/1조/2-2_데이터_전처리_박제인.md)|  |
 
 ### 3장. 회귀 알고리즘과 모델 규제
 | 세부 목차 | 1조 | 2조 | 3조
 :---: | :---: | :---: | :---:
-[3-1. k-최근접 이웃 회귀](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/6)
-[3-2. 선형 회귀](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/7)
-[3-3. 특성 공학과 규제](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/8)
+[3-1. k-최근접 이웃 회귀](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/6) |  | [문혜진](3장/2조/3-1_k-최근접_이웃_회귀_문혜진.md) / [황세연](3장/2조/3-1_k-최근접_이웃_회귀_황세연.md) / [장서현](3장/2조/3-1_회귀_알고리즘과_모델_규제_장서현.md) |
+[3-2. 선형 회귀](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/7) | [문혜진](3장/2조/3-2_선형_회귀_문혜진) / [장서현](3장/2조/3-2_선형_회귀_장서현.md) / [황세연](3장/2조/3-2_선형_회귀_황세연.md) |  |
+[3-3. 특성 공학과 규제](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/8) |  |  |
 
 ### 4장. 다양한 분류 알고리즘
 | 세부 목차 | 1조 | 2조 | 3조
@@ -52,22 +52,22 @@ CHIC 24년 겨울/ **AI & 기계학습** 스터디
 [6-3. 주성분 분석](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/16)
 
 ### 7장. 딥러닝을 시작합니다
-| 세부 목차 | 1조 | 2조 | 3조
-:---: | :---: | :---: | :---:
+| 세부 목차 | 2조 | 3조
+:---: | :---: | :---:
 [7-1. 인공 신경망](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/17)
 [7-2. 심층 신경망](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/18)
 [7-3. 신경망 모델 훈련](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/19)
 
 ### 8장. 이미지를 위한 인공 신경망
-| 세부 목차 | 1조 | 2조 | 3조
-:---: | :---: | :---: | :---:
+| 세부 목차 | 2조 | 3조
+:---: | :---: | :---:
 [8-1. 합성곱 신경망의 구성 요소](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/20)
 [8-2. 합성곱 신경망을 사용한 이미지 분류](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/21)
 [8-3. 합성곱 신경망의 시각화](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/22)
 
 ### 9장. 텍스트를 위한 인공 신경망
-| 세부 목차 | 1조 | 2조 | 3조
-:---: | :---: | :---: | :---:
+| 세부 목차 | 2조 | 3조
+:---: | :---: | :---: 
 [9-1. 순차 데이터와 순환 신경망](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/23)
 [9-2. 순환 신경망으로 IMDB 리뷰 분류하기](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/24)
 [9-3. LSTM과 GRU 셀](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/25)
