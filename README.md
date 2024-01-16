@@ -14,15 +14,15 @@ CHIC 24년 겨울/ **AI & 기계학습** 스터디
 ### 1장. 나의 첫 머신러닝
 | 세부 목차 | 1조 | 2조 | 3조
 :---: | :---: | :---: | :---:
-[1-1. 인공지능과 머신러닝, 딥러닝](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/1) | [정수진](1장/1조/1-1_인공지능과_머신러닝_딥러닝_정수진.md) / [김정원](1장/1조/1-1_인공지능과_머신러닝_딥러닝_김정원.md) / [박천수](1장/1조/1-1_인공지능과_머신러닝_딥러닝_박천수.md) /[김지원](1장/1조/1-1_인공지능과_머신러닝_딥러닝_김지원.md) |  | 
-[1-2. 코랩과 주피터 노트북](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/2) |  | 
-[1-3. 마켓과 머신러닝](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/3) |  | 
+[1-1. 인공지능과 머신러닝, 딥러닝](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/1) | [정수진](1장/1조/1-1_인공지능과_머신러닝_딥러닝_정수진.md) / [김정원](1장/1조/1-1_인공지능과_머신러닝_딥러닝_김정원.md) / [박천수](1장/1조/1-1_인공지능과_머신러닝_딥러닝_박천수.md) /[김지원](1장/1조/1-1_인공지능과_머신러닝_딥러닝_김지원.md) / [박제인](1장/1조/1-1_인공지능과_머신러닝_딥러닝_박제인.md)|  | 
+[1-2. 코랩과 주피터 노트북](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/2) | [박제인](1장/1조/1-2_코랩과_주피터노트북_박제인.md) |
+[1-3. 마켓과 머신러닝](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/3) | [박제인](1장/1조/1-3_마켓과_머신러닝_박제인.md) | 
 
 ### 2장. 데이터 다루기
 | 세부 목차 | 1조 | 2조 | 3조
 :---: | :---: | :---: | :---:
-[2-1. 훈련 세트와 테스트 세트](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/4)
-[2-2. 데이터 전처리](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/5)
+[2-1. 훈련 세트와 테스트 세트](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/4) | [박제인](2장/1조/2-1_훈련_세트와_테스트_세트_박제인.md)|
+[2-2. 데이터 전처리](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/5) | [박제인](2장/1조/2-2_데이터 전처리_박제인.md)|
 
 ### 3장. 회귀 알고리즘과 모델 규제
 | 세부 목차 | 1조 | 2조 | 3조
