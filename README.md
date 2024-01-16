@@ -28,7 +28,7 @@ CHIC 24년 겨울/ **AI & 기계학습** 스터디
 | 세부 목차 | 1조 | 2조 | 3조
 :---: | :---: | :---: | :---:
 [3-1. k-최근접 이웃 회귀](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/6) |  | [문혜진](3장/2조/3-1_k-최근접_이웃_회귀_문혜진.md) / [황세연](3장/2조/3-1_k-최근접_이웃_회귀_황세연.md) / [장서현](3장/2조/3-1_회귀_알고리즘과_모델_규제_장서현.md) |
-[3-2. 선형 회귀](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/7) | [문혜진](3장/2조/3-2_선형_회귀_문혜진) / [장서현](3장/2조/3-2_선형_회귀_장서현.md) / [황세연](3장/2조/3-2_선형_회귀_황세연.md) |  |
+[3-2. 선형 회귀](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/7) |  | [문혜진](3장/2조/3-2_선형_회귀_문혜진.md) / [장서현](3장/2조/3-2_선형_회귀_장서현.md) / [황세연](3장/2조/3-2_선형_회귀_황세연.md) | 
 [3-3. 특성 공학과 규제](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/8) |  |  |
 
 ### 4장. 다양한 분류 알고리즘
