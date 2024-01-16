@@ -22,7 +22,7 @@ CHIC 24년 겨울/ **AI & 기계학습** 스터디
 | 세부 목차 | 1조 | 2조 | 3조
 :---: | :---: | :---: | :---:
 [2-1. 훈련 세트와 테스트 세트](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/4) | [박제인](2장/1조/2-1_훈련_세트와_테스트_세트_박제인.md)|
-[2-2. 데이터 전처리](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/5) | [박제인](2장/1조/2-2_데이터 전처리_박제인.md)|
+[2-2. 데이터 전처리](https://github.com/kw-chi-community/CHIC_24_machine-learning-study/issues/5) | [박제인](2장/1조/2-2_데이터_전처리_박제인.md)|
 
 ### 3장. 회귀 알고리즘과 모델 규제
 | 세부 목차 | 1조 | 2조 | 3조
